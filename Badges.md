@@ -22,3 +22,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberrypi)   
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?logo=arduino)  
 ![ESP](https://img.shields.io/badge/-ESP-000000?logo=esphome)  
+![Android](https://img.shields.io/badge/-Android-black?logo=android)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)  
+![Angular JS](https://img.shields.io/badge/-AngularJS-E23237?logo=angularjs)  
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache)  
